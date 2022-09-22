@@ -32,3 +32,25 @@
   .nameMAI {
     font-family:'Times New Roman', Times, serif
   }
+  #singers{
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 15px solid khaki;
+    border-collapse: separate;
+    box-sizing: border-box;
+  }
+  #singer th{
+    color: tomato;
+    text-align: center;
+    padding: 35px;
+    border: 15px solid indigo;
+  }
+  #singer td{
+    color: lawngreen;
+    text-align: center;
+    padding: 35px;
+    border: 15px solid fuchsia;
+  }
+  #singer tr:nth-child(even){
+    background-color: crimson;
+  }
