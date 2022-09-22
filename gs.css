@@ -54,3 +54,15 @@
   #singers tr:nth-child(even) {
     background-color: crimson;
   }
+  .nameGRO:hover{
+    color: aquamarine;
+    background-color: teal;
+    text-shadow: 5px 5PX 5PX olivedrab;
+    display: inline;
+  }
+  .nameMAI:hover{
+    color: mediumslateblue;
+    background-color: gold;
+    text-shadow: 5px 5PX 5PX lightcyan;
+    display: inline;
+  }
